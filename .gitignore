@@ -1,0 +1,71 @@
+# ======================
+# Python cache files
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ======================
+# Virtual Environment
+# ======================
+venv/
+env/
+ENV/
+.venv/
+
+# ======================
+# Streamlit
+# ======================
+.streamlit/
+
+# ======================
+# Environment variables
+# ======================
+.env
+.env.local
+.env.*.local
+
+# ======================
+# Logs
+# ======================
+*.log
+logs/
+
+# ======================
+# IDEs
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# Model / AI cache (optional)
+# ======================
+models/
+*.bin
+*.model
+*.h5
+
+# ======================
+# PDF / dataset uploads (optional)
+# ======================
+uploads/
+data/
+*.pdf
+
+# ======================
+# Streamlit cache
+# ======================
+.cache/

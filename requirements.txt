@@ -1,0 +1,13 @@
+streamlit
+pypdf
+pdfminer.six
+langchain
+langchain-community
+langchain-text-splitters
+google-generativeai
+python-dotenv
+tqdm
+regex
+numpy
+pandas
+scikit-learn
